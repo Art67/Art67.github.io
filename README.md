@@ -2,7 +2,7 @@
 Founders & Coders prerequisite.
 
 EVERYDAY SCIENTIST:
--- First one-page website created for the Founders & Coders application (I used Notepad++). The website will (hopefully) tell you something about some of my interests and concerns. 
+-- First one-page website created for the Founders & Coders application (I used Notepad++). The website will (hopefully) tell you something about some of my interests and concerns. There's also a link to my LinkedIn profile, in case something like a CV might be useful to you.
 
 -- The code most likely has inelegant workarounds; still, when I last tested it, it worked as expected on Firefox, Chrome, Opera, MS Explorer, MS Edge.
 
